@@ -29,7 +29,7 @@
 ### ***<center> 📔Menu Principal📕<center/>***
 ![menu principal](imagenes/menu.jpg "Menu principal")
 ### ***<center> 📘Buscando Libros en Gutendex API📓<center/>***
-![menu principal](imagenes/buscando libro.jpg "Menu principal") 
+![menu principal](imagenes/buscandoLibro.jpg "Menu principal") 
 ### ***<center> 📚Libros Guardados en Base de Datos L@Civa7🐐📒</center>***
 ![menu principal](imagenes/librosBD.jpg "Menu principal") 
 ### ***<center> 👩‍💼Autores Registrados en Base de Datos L@Civa7🐐👨‍💼<center/>***
