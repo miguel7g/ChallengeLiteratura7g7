@@ -26,17 +26,17 @@
 6- Con colaboracionde grupo de estudio en ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white), 
 
 7-Se deja una pequeña presentacion de lo que puede hacer este simpatico proyecto
-### ***<center> 📔Menu Principal📕</center>***
+### ***<center> 📔Menu Principal📕<center/>***
 ![menu principal](imagenes/menu.jpg "Menu principal")
-### ***<center> 📘Buscando Libros en Gutendex API📓</center>***
+### ***<center> 📘Buscando Libros en Gutendex API📓<center/>***
 ![menu principal](imagenes/buscando libro.jpg "Menu principal") 
 ### ***<center> 📚Libros Guardados en Base de Datos L@Civa7🐐📒</center>***
 ![menu principal](imagenes/librosBD.jpg "Menu principal") 
-### ***<center> 👩‍💼Autores Registrados en Base de Datos L@Civa7🐐👨‍💼</center>***
+### ***<center> 👩‍💼Autores Registrados en Base de Datos L@Civa7🐐👨‍💼<center/>***
 ![menu principal](imagenes/autoresRegistrados.jpg "Menu principal") 
-### ***<center> 👨‍💼Autores Por Nombre👩‍💼</center>***
+### ***<center> 👨‍💼Autores Por Nombre👩‍💼<center/>***
 ![menu principal](imagenes/autorPorNombre.jpg "Menu principal") 
-### ***<center> Opcion Defoult </center>***
+### ***<center> Opcion Defoult <center/>***
 ![menu principal](imagenes/defoult.jpg "Menu principal")
-### ***<center> 💨 Finalizacion o salida </center>***
+### ***<center> 💨 Finalizacion o salida <center/>***
 ![menu principal](imagenes/salida.jpg "Menu principal") 
