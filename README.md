@@ -39,4 +39,8 @@
 ### ***<center> Opcion Defoult <center/>***
 ![menu principal](imagenes/defoult.jpg "Menu principal")
 ### ***<center> 💨 Finalizacion o salida <center/>***
-![menu principal](imagenes/salida.jpg "Menu principal") 
+![menu principal](imagenes/salida.jpg "Menu principal")
+
+8-en este caso presentamos una insignia  premio de Alura por la culminav¿cion del proyecto
+### ***<center> 🥇Insignia Badge-Alura 🥈 <center/>***
+![menu principal](imagenes/badgeLiteralura.png "Menu principal") 
